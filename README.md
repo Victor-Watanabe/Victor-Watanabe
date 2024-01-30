@@ -1,11 +1,11 @@
 
 ### ⛩️ Olá, Meu nome é Victor Watanabe! ⛩️
 
-🖥️ Atualmente trabalho com Desenvolvimento.
+🖥️ Atualmente trabalho com Desenvolvimento
 
 📖 Entusiasta em Python|SQL|Power B.I.
 
-🔎 Em busca de Novas Oportunidades. Segue ->
+🔎 Em busca de Novas Oportunidades
 
 ![Victor-Watanabe GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Watanabe&show_icons=true&theme=dracula)
 
