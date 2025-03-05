@@ -3,7 +3,7 @@
 
 🖥️ Atualmente trabalho com Desenvolvimento
 
-📖 Entusiasta em Python|SQL|Power B.I.
+📖 Entusiasta em Python | SQL | JavaScript | React.js 
 
 🔎 Em busca de Novas Oportunidades
 
@@ -16,6 +16,7 @@
 ![PythonEscuro](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLServer](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 
 ### ☎️ Contato!
 
