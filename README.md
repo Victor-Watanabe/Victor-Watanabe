@@ -3,7 +3,7 @@
 
 🖥️ Atualmente trabalho com Desenvolvimento
 
-📖 Entusiasta em Python | SQL | JavaScript | React.js 
+📖 Entusiasta em Python | SQL | JavaScript | React.js | Next.js | FireBase | Prisma 
 
 🔎 Em busca de Novas Oportunidades
 
